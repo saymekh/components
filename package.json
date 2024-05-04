@@ -2,7 +2,7 @@
   "name": "components",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://saymekh.github.io/repository",
+  "homepage": "http://saymekh.github.io/components",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
