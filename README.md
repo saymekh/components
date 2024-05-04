@@ -1,3 +1,3 @@
 ## React Project
 
-simpl react project 
+simple react project 
