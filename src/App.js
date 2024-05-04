@@ -1,4 +1,5 @@
 // src/App.js
+import BrowserRouter from 'react-router-dom/BrowserRouter'
 import React from 'react';
 import Header from './components/Header';
 import Banner from './components/Banner';
