@@ -46,8 +46,7 @@ span {
 
 .banner img {
   margin-bottom: 35px;
-  width: 30em;
-  padding: 30px;
+  width: 35em;
   border-radius: 5px;
   border-top-left-radius: 35px;
   border-bottom-right-radius: 35px;
@@ -60,11 +59,11 @@ h1 {
   margin-bottom: 0;
   text-align: left;
   font-family: "Bebas Neue", sans-serif;
-  font-size: 3.5em;
+  font-size: 4.5em;
+  width: 500px;
 }
 
 .banner {
-  background-position: center;
   height: 500px;
   display: flex;
   justify-content: center;
@@ -75,13 +74,14 @@ h1 {
 .banner-content p {
   font-size: 1.5em;
   margin: 0;
-  padding: 0;
+  
 }
 
 .banner-content {
   flex-direction: column;
   display: flex;
   margin-bottom: 130px;
+  margin-right: -230px;
 }
 
 .nav-list {
@@ -122,7 +122,7 @@ a {
   border: none;
   position: relative;
   top: 7rem;
-  right: 25rem;
+  right: 23.5rem;
   white-space: nowrap;
   height: 51px;
 }
@@ -132,7 +132,7 @@ a {
   border: 2px solid #007bff;
   color: #007bff;
   position: relative;
-  right: 24.5rem;
+  right: 23rem;
   top: 7rem;
   white-space: nowrap;
 }
